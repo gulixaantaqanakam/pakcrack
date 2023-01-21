@@ -22,8 +22,8 @@
 
 #### > Run : `python2 crack.py`
 
-#### USERNAME : `cra3k`
-#### PASSWORD : `htrtech`
+#### USERNAME : `TELEGRAM`
+#### PASSWORD : `SONN1C`
 
 ## Single Command :
 ```
